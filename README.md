@@ -51,6 +51,9 @@ Open index.html file in any browser to see the results.
 
 Below are sample report snapshots
 
+![screencapture-localhost-63342-leaseplan-example-project-target-site-serenity-index-html-2022-05-25-06_33_05](https://user-images.githubusercontent.com/9302926/170196307-1e7daaae-14ba-4752-8f9e-34be724192f0.jpg)
+
+![screencapture-localhost-63342-leaseplan-example-project-target-site-serenity-35cfed838fce6a34547d061ef095dd6837e5024c11ea9a63e7b6112cef6d263f-html-2022-05-25-06_33_34](https://user-images.githubusercontent.com/9302926/170196448-5f0e446c-03f6-4f55-84e5-3620ac7f7193.jpg)
 
 I have used serenity framework here.
 
